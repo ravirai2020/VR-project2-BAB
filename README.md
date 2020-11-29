@@ -38,7 +38,11 @@ After implementation phase, we slightly modify the idea with the replacement of 
 
 9. Teamwork (10%): see the peer evaluation.
 
+The science of wearing mask
 ![why mask](figures/why_mask.png)
+
+The science of social distance
+![why distance](figures/why_social_distance.jpg)
 
 ## The game features
 
