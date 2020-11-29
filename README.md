@@ -63,6 +63,8 @@ Features:
 
 ![monster_features](figures/monster_explain.png)
 
+**2. The crowd:**
+
 
 
 ## References
