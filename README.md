@@ -75,6 +75,8 @@ Features:
 
 **3. The player:**
 
+![player](figures/player.png)
+
 Features:
 
 - Hold the vaccine gun to kill the monster. The gun has a certain amount of vaccine.
