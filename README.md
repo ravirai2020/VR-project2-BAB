@@ -90,3 +90,11 @@ Features:
 - The alarm zone gives information for the player to manage his move.
 
 ## References
+
+- Monster: Blender, Unity.
+
+- City people: using [Mixamo](https://www.mixamo.com/#/?page=1&type=Character)
+
+- Buildings:
+
+- Vaccine gun:
