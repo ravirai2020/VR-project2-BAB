@@ -59,7 +59,7 @@ Features:
 
 - Corona baby disappears after 20 seconds.
 
-- Corona baby causes damage to the player if it goes to the alarm zone (6 feets), and then, it disappears.
+- Corona baby infects the player if it goes to the alarm zone (6 feets).
 
 ![monster_features](figures/monster_explain.png)
 
@@ -73,6 +73,18 @@ Features:
 
 - They automatically run away from the virus.
 
+**3. The player:**
 
+Features:
+
+- Hold the vaccine gun to kill the monster. The gun has a certain amount of vaccine.
+
+- Can wear mask to block damage from the virus and anyone that is infected by the virus.
+
+- If the player is infected by the virus, his health reduces.
+
+- The player can shoot the virus by his vaccine gun to kill it.
+
+- The alarm zone gives information for the player to manage his move.
 
 ## References
