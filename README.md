@@ -95,6 +95,16 @@ Features:
 
 - City people: using [Mixamo](https://www.mixamo.com/#/?page=1&type=Character)
 
-- Buildings:
+- Buildings: (https://sketchfab.com/3d-models/ccity-building-set-1-a2d5c7bfcc2148fb8994864c43dfcc97)
 
-- Vaccine gun:
+- Vaccine gun: (https://free3d.com/3d-model/energy---m14-713978.html)
+
+- Game music: (https://gamethemesongs.com/Assassins_Creed_Origins___Winds_of_Cyrene.html)
+
+- Monster music: (https://www.shockwave-sound.com/sound-effects/monster-sounds/Monster%20Scream.wav)
+
+- Healthbar png: (http://pngimg.com/download/51337)
+
+- Maskbar png: (https://cdn0.iconfinder.com/data/icons/virus-medical/567/virus_wearing_mask-512.png)
+
+- Monsterbar png: (http://pngimg.com/uploads/coronavirus/coronavirus_PNG7.png)
