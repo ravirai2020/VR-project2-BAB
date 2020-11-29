@@ -32,7 +32,7 @@ After implementation phase, we slightly modify the idea with the replacement of 
 
 6. Usability (10%):the game can work smoothly.
 
-7. Technical challenging (10%): see them in the next section
+7. Technical challenging (10%): all features/functions in the next section.
 
 8. Effort (10%): we all have little experience in Unity, so completing the game demo takes lots of our efforts.
 
@@ -50,5 +50,19 @@ The science of social distance
 
 Visual appealing of the monster:
 ![monster](figures/monster.png)
+
+Features:
+
+- Emit Corona baby every 15 seconds.
+
+- Corona baby automatically moves toward the player to cause damage.
+
+- Corona baby disappears after 20 seconds.
+
+- Corona baby causes damage to the player if it goes to the alarm zone (6 feets), and then, it disappears.
+
+![monster_features](figures/monster_explain.png)
+
+
 
 ## References
