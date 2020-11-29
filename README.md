@@ -38,6 +38,8 @@ After implementation phase, we slightly modify the idea with the replacement of 
 
 9. Teamwork (10%): see the peer evaluation.
 
+![why mask](figures/why_mask.png)
+
 ## The game features
 
 ## References
