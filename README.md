@@ -65,6 +65,14 @@ Features:
 
 **2. The crowd:**
 
+![crowd](figures/crowd.png)
+
+Features:
+
+- People on the street are cloned randomly during the game.
+
+- They automatically run away from the virus.
+
 
 
 ## References
