@@ -46,6 +46,9 @@ The science of social distance
 
 ## The game features
 
+**1. The Corona monster**
 
+Visual appealing of the monster:
+![monster](figures/monster.png)
 
 ## References
